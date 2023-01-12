@@ -21,9 +21,6 @@ export default function Table(){
                     <th className="px-16 py-2">
                         <span className="text-gray-200">Interviewer Status</span>
                     </th>
-                    {/* <th className="px-16 py-2">
-                        <span className="text-gray-200"></span>
-                    </th> */}
                 </tr>
             </thead>
             <tbody className="bg-gray-200">

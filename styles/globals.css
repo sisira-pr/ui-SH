@@ -2,10 +2,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* @import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities'; */
 
 * > *{
   font-family:  'Inter', sans-serif;
 }
+
 
 a {
   color: inherit;

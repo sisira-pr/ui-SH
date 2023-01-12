@@ -1,34 +1,34 @@
 [
     {
         "id": 10300,
-        "name": "Vijay Raghavan Aravamudhan",
+        "name": "Vijay",
         "type": "Shadow / Yet to start",
         "homeoffice": "Chennai",
         "grade": "Principal Consultant",
         "status": "Inactive"
     },
     {
-        "id": 10300,
-        "name": "Vijay Raghavan Aravamudhan",
-        "type": "Shadow / Yet to start",
+        "id": 10400,
+        "name": "Raghavan",
+        "type": "Anchor",
         "homeoffice": "Chennai",
-        "grade": "Principal Consultant",
-        "status": "Inactive"
+        "grade": "Consultant",
+        "status": "Active"
     },
     {
         "id": 10300,
-        "name": "Vijay Raghavan Aravamudhan",
+        "name": "Aravamudhan",
         "type": "Shadow / Yet to start",
-        "homeoffice": "Chennai",
-        "grade": "Principal Consultant",
-        "status": "Inactive"
+        "homeoffice": "Coimbatore",
+        "grade": "Grad Consultant",
+        "status": "Active"
     },
     {
         "id": 10300,
-        "name": "Vijay Raghavan Aravamudhan",
-        "type": "Shadow / Yet to start",
-        "homeoffice": "Chennai",
-        "grade": "Principal Consultant",
+        "name": "Rani",
+        "type": "Pair",
+        "homeoffice": "Coimbatore",
+        "grade": "Consultant",
         "status": "Inactive"
     }
 
